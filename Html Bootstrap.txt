@@ -1,0 +1,22 @@
+<header>
+        <div class="left-section">
+            <i class="material-icons">menu</i>
+            <img src="img/Logo.png" class="Logo">
+        </div>
+
+        <div class="mid-section">
+            <nav class="navbar">
+                  <form class="mid-form d-flex">
+                    <input class="shadow-none search-bar form-control" type="search" placeholder="Search" aria-label="Search">
+                    <button class="search-box btn" type="submit"><i class="material-icons">search</i></button>
+                  </form>
+              </nav>
+        </div>
+
+        <div class="right-section">
+            <input type="checkbox" id="darkmode"/>
+            <label for="darkmode"><a href=""><i class="material-icons">contrast</i></a></label>
+            <a href=""><i class="material-icons">account_circle</i></a>
+            <a href=""><i class="material-icons">shopping_cart</i></a>
+        </div>
+    </header>
